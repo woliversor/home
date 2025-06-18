@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Meu Site Pessoal
 ---
 
 # 👋 Olá, eu sou **aka woliversor**
